@@ -1,6 +1,5 @@
 # fire
 
-You're right, my previous explanation about yolov5s.pt was not included in the prerequisites section. Let me update the README file with the necessary information:
 
 ## Prerequisites
 - Download and extract the [YOLOv5](https://github.com/ultralytics/yolov5) repository.
