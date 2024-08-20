@@ -32,3 +32,4 @@ The program uses the webcam to detect fire. If fire is detected, a warning messa
 - If fire is detected, a warning message is printed.
 
 Please let me know if you have any further questions or issues.
+https://www.linkedin.com/in/saleh-dasin/
